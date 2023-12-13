@@ -1,25 +1,27 @@
-### Hi there 👋, I'm Stars!  ![](https://komarev.com/ghpvc/?username=starsophile)
+### Hi there 👋, I'm Nova!  ![](https://komarev.com/ghpvc/?username=starsophile)
 
 A Developer ~ Python , Js , Ts , GO
 
  **Information:**
 
-- 🔭 I’m currently working on  **Gateway**
+- 🔭 I’m currently working on  **Aware & Carbon**
 - 🌱 I’m currently learning  **Bash , Java**
-- 🌱 Contact : starsophile@gmail.com
+- 🌱 Contact : contact@novaa.fun
 
 **Projects**
 
 - [Gateway](https://gatewaybot.xyz)
-- [Moosic](https://moosicbot.org.)
+- [Moosic](https://moosicbot.pro)
+- [Aware](https://discord.gg/awarebot)
+- [Carbon](https://discord.gg/awarebot)
 
 **Socials**
 
-- [Website](https://gatewaybot.xyz/)
-- [Server](https://discord.gg/XdkssRGwzW)
+- [Website](https://awarebot.pro)
+- [Server](https://discord.gg/awarebot)
 - [GitHub](https://github.com/starsophile)
 
-<a href="https://discord.com/users/978930369392951366" target="_blank" >
+<a href="https://discord.com/users/847770840266833961" target="_blank" >
     <img align ="left" alt="NightMare's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
   </a>
   <a href="https://github.com/starsophile" target="_blank">
