@@ -12,7 +12,6 @@ A Developer ~ Python , Js , Ts , GO
 **Projects**
 
 - [Gateway](https://gatewaybot.xyz)
-- [Moosic](https://moosicbot.pro)
 - [Aware](https://discord.gg/awarebot)
 - [Carbon](https://discord.gg/awarebot)
 
