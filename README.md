@@ -5,16 +5,17 @@ A Developer ~ Python , Js , Ts , GO
 
  **Information:**
 
-- 🔭 I’m currently working on  **Aware & Carbon**
+- 🔭 I’m currently working on  **Aware & AVOM**
 - 🌱 I’m currently learning  **Bash , Java**
-- 🌱 Contact : contact@novaa.fun
+- 🌱 Contact : **wilfred.shubham@gmail.com**
 
 **Projects**
 
-- [Gateway](https://gatewaybot.xyz)
+- [Gateway](https://discord.gg/79dev)
 - [Aware](https://discord.gg/awarebot)
-- [Carbon](https://discord.gg/awarebot)
+- [Nirvana](https://discord.com/invite/gFAWh4URjj)
 - [AVON](https://discord.gg/avon)
+- [79 Development](https://discord.gg/79dev)
 
 **Socials**
 
