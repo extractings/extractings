@@ -5,7 +5,7 @@ A Developer ~ Python , Js , Ts , GO
 
  **Information:**
 
-- 🔭 I’m currently working on  **Aware & AVOM**
+- 🔭 I’m currently working on  **Aware & AVON**
 - 🌱 I’m currently learning  **Bash , Java**
 - 🌱 Contact : **wilfred.shubham@gmail.com**
 
