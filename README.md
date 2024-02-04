@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Nova!  ![](https://komarev.com/ghpvc/?username=starsophile)
 [![Website](https://img.shields.io/website?label=novaa.fun&style=for-the-badge&url=https%3A%2F%2Fnovaa.fun)](https://novaa.fun)
 
-A Developer ~ Python , Js , Ts , GO
+A Developer ~ Python , Js , Ts
 
  **Information:**
 
