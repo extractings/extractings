@@ -1,25 +1,25 @@
-### Hi there 👋, I'm Nova!  ![](https://komarev.com/ghpvc/?username=starsophile)
-[![Website](https://img.shields.io/website?label=novaa.fun&style=for-the-badge&url=https%3A%2F%2Fnovaa.fun)](https://novaa.fun)
+### Hi there 👋, I'm Shubham!  ![](https://komarev.com/ghpvc/?username=ftpskid)
+[![Website](https://img.shields.io/website?label=shxbham.deb&style=for-the-badge&url=https%3A%2F%2Fshxbham.dev)](https://shxbham.dev/)
 
-A Developer ~ Python , Js , Ts
+A Developer ~ Back-end 
 
  **Information:**
 
-- 🔭 I’m currently working on  **Aware & AVON**
+- 🔭 I’m currently working on  **Aware & Nirvana**
 - 🌱 I’m currently learning  **Bash , Java**
-- 🌱 Contact : **wilfred.shubham@gmail.com**
+- 🌱 Contact : **shubham@gatewaybot.org**
 
 **Projects**
 
-- [Gateway](https://discord.gg/79dev)
-- [Aware](https://discord.gg/awarebot)
-- [Nirvana](https://discord.com/invite/gFAWh4URjj)
+- [Gateway](https://discord.gg/aware)
+- [Aware](https://awarebot.tech/)
+- [Nirvana](https://nirvanabot.pro/)
 - [AVON](https://discord.gg/avon)
 - [79 Development](https://discord.gg/79dev)
 
 **Socials**
 
-- [Website](https://awarebot.pro)
+- [Website](https://shxbham.dev/)
 - [Server](https://discord.gg/aware)
 - [GitHub](https://github.com/ftpskid)
 <!-- GRS (Light Mode) -->
