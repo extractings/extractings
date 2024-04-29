@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Shubham!  ![](https://komarev.com/ghpvc/?username=ftpskid)
-[![Website](https://img.shields.io/website?label=shxbham.deb&style=for-the-badge&url=https%3A%2F%2Fshxbham.dev)](https://shxbham.dev/)
+[![Website](https://img.shields.io/website?label=shxbham.dev&style=for-the-badge&url=https%3A%2F%2Fshxbham.dev)](https://shxbham.dev/)
 
 A Developer ~ Back-end 
 
