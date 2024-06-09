@@ -1,12 +1,12 @@
 ### Hi there 👋, I'm Shubham!  ![](https://komarev.com/ghpvc/?username=ftpskid)
 [![Website](https://img.shields.io/website?label=shxbham.dev&style=for-the-badge&url=https%3A%2F%2Fshxbham.dev)](https://shxbham.dev/)
 
-A Developer ~ Back-end 
+A Developer ~ Full Stack Developer
 
  **Information:**
 
-- 🔭 I’m currently working on  **Aware & Nirvana**
-- 🌱 I’m currently learning  **Bash , Java**
+- 🔭 I’m currently working on **4 Mount**
+- 🌱 I’m currently learning  **Go , Java**
 - 🌱 Contact : **shubham@gatewaybot.org**
 
 **Projects**
@@ -20,7 +20,7 @@ A Developer ~ Back-end
 **Socials**
 
 - [Website](https://shxbham.dev/)
-- [Server](https://discord.gg/aware)
+- [Instagram](https://instagram.com/shubham_geek)
 - [GitHub](https://github.com/ftpskid)
 <!-- GRS (Light Mode) -->
 <div align="center"> 
