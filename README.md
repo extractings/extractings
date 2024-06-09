@@ -17,6 +17,9 @@ A Developer ~ Full Stack Developer
 - [AVON](https://discord.gg/avon)
 - [79 Development](https://discord.gg/79dev)
 
+**Tech Stack**
+https://user-images.githubusercontent.com/25181517/183570228-6a040b9f-3ddf-47a2-a201-743121dac664.png
+
 **Socials**
 
 - [Website](https://shxbham.dev/)
