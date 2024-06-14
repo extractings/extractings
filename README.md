@@ -1,13 +1,19 @@
-### Hi there 👋, I'm Shubham!  ![](https://komarev.com/ghpvc/?username=ftpskid)
 [![Website](https://img.shields.io/website?label=shxbham.dev&style=for-the-badge&url=https%3A%2F%2Fshxbham.dev)](https://shxbham.dev/)
 
-A Developer ~ Full Stack Developer
+Full Stack Developer 
+Welcome to my GitHub profile! I'm passionate about building robust and scalable applications using Python and Go. With a strong background in full stack development, I thrive on creating elegant solutions to complex problems.
 
- **Information:**
+What I Do:
+**Full Stack Development: I specialize in building end-to-end web applications, from frontend design to backend implementation.**
 
-- 🔭 I’m currently working on **4 Mount**
-- 🌱 I’m currently learning  **Go , Java**
-- 🌱 Contact : **shubham@gatewaybot.org**
+- Python & Go: My primary languages of choice are Python and Go. I love their simplicity, efficiency, and versatility.
+- Open Source Contributions: I actively contribute to open source projects, helping to improve and expand the capabilities of various tools and libraries.
+
+What You'll Find Here:
+
+- Projects: Explore my repositories to see a variety of projects showcasing my skills and interests.
+- Code Snippets: I often share useful code snippets and utilities that I've developed during my projects.
+- Tech Articles: Occasionally, I write articles on topics related to Python, Go, and full stack development.
 
 **Projects**
 
