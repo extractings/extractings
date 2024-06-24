@@ -17,12 +17,12 @@ What You'll Find Here:
 
 **Mail** - wwzp@proton.me
 
-**Projects**
+My Projects :
 
-- Current
-- **4 Mount**
+**Current**
+- 4 Mount
 
-- EX Projects 
+**Ex Projects**
 - [Gateway](https://discord.gg/aware)
 - [Aware](https://awarebot.tech/)
 - [Nirvana](https://nirvanabot.pro/)
