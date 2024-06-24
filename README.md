@@ -15,8 +15,14 @@ What You'll Find Here:
 - Code Snippets: I often share useful code snippets and utilities that I've developed during my projects.
 - Tech Articles: Occasionally, I write articles on topics related to Python, Go, and full stack development.
 
+**Mail** - wwzp@proton.me
+
 **Projects**
 
+- Current
+- **4 Mount**
+
+- EX Projects 
 - [Gateway](https://discord.gg/aware)
 - [Aware](https://awarebot.tech/)
 - [Nirvana](https://nirvanabot.pro/)
