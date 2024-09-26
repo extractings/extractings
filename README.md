@@ -63,11 +63,7 @@ What You'll Find Here:
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
 
-**Socials**
-
-- [Website](https://shxbham.dev/)
-- [Instagram](https://instagram.com/shubham_geek)
-- [GitHub](https://github.com/ftpskid)
+All My [**Socials**](https://slat.cc/skidder)
 <!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/extractings#gh-light-mode-only">
