@@ -17,20 +17,6 @@ What You'll Find Here:
 - Code Snippets: I often share useful code snippets and utilities that I've developed during my projects.
 - Tech Articles: Occasionally, I write articles on topics related to Python, Go, and full stack development.
 
-**Mail** - wwzp@proton.me
-
-My Projects :
-
-**Current**
-- 4 Mount
-
-**Ex Projects**
-- [Gateway](https://discord.gg/aware)
-- [Aware](https://awarebot.tech/)
-- [Nirvana](https://nirvanabot.pro/)
-- [AVON](https://discord.gg/avon)
-- [79 Development](https://discord.gg/79dev)
-
 **Tech Stack**
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" alt="HTTP" title="HTTP"/></code>
