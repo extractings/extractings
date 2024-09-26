@@ -120,20 +120,6 @@ All My [**Socials**](https://slat.cc/skidder)
      />
   </a>
 </div>
-
-<a href="https://discord.com/users/847770840266833961" target="_blank" >
-    <img align ="left" alt="NightMare's Discord" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
-  </a>
-  <a href="https://github.com/ftpskid" target="_blank">
-    <img align ="left" alt="NIghtMare's Github " width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-  </a>
-<a href="https://instagram.com/shubham_geek" target="_blank" >
-    <img align ="left" alt="NightMare's Insta" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-  </a>
-<a href="https://youtube.com/@starsophile" target="_blank" >
-    <img align ="left" alt="NightMare's YouTube" width="22px" src ="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-  </a>
-
 <br />
 <br />
 
