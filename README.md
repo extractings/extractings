@@ -1,5 +1,3 @@
-[![Website](https://img.shields.io/website?label=shxbham.dev&style=for-the-badge&url=https%3A%2F%2Fshxbham.dev)](https://shxbham.dev/)
-
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 Full Stack Developer 
@@ -62,8 +60,6 @@ What You'll Find Here:
 	<code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" alt="Linux" title="Linux"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" alt="Ubuntu" title="Ubuntu"/></code>
 </div>
-
-All My [**Socials**](https://slat.cc/skidder)
 <!-- GRS (Light Mode) -->
 <div align="center"> 
   <a href="https://github.com/extractings#gh-light-mode-only">
